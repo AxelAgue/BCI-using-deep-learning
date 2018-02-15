@@ -1,7 +1,6 @@
 import numpy as np
 import h5py
 import matplotlib.pyplot as plt
-import load_data
 import sklearn
 from sklearn.model_selection import train_test_split
 
